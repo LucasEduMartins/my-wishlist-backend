@@ -33,7 +33,7 @@ Abaixo está um fluxograma representando a arquitetura do projeto, incluindo a i
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/LucasEduMartins/meus-livros-backend.git
+git clone https://github.com/LucasEduMartins/my-wishlist-backend.git
 ```
 
 2. Crie um ambiente virtual e ative-o:

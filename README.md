@@ -9,23 +9,17 @@ Projeto criado como MVP da sprint: Arquitetura de Software da pós-graduação e
 - **Cadastrar Listas de Desejos**: Criação e gerenciamento de listas de desejos.
 - **Adicionar Produtos**: Adição e gerenciamento de produtos na lista de desenos.
 
----
-
 ## 🛠️ Tecnologias Principais Utilizadas
 
 - **Python 3.x**
 - **Flask**
 - **SQLite**
 
----
-
 ## 🗺️ Arquitetura do Projeto
 
 Abaixo está um fluxograma representando a arquitetura do projeto, incluindo a interação entre o frontend, backend e o banco de dados:
 
 ![Arquitetura do Projeto](assets/archtecture_flow.png)
-
----
 
 ## ▶️ Como Rodar o Projeto
 
@@ -64,8 +58,6 @@ python app.py
 
 A API estará disponível em [http://127.0.0.1:5000](http://127.0.0.1:5000).
 
----
-
 ## 📦 Como Rodar com Docker
 
 1. Certifique-se de ter o Docker e o Docker Compose instalados na sua máquina.
@@ -85,8 +77,6 @@ A API estará disponível em [http://127.0.0.1:5000](http://127.0.0.1:5000).
    ```
 
 O arquivo `docker-compose.yml` já está configurado para criar o ambiente necessário para rodar a aplicação.
-
----
 
 ## 📦 Documentação da API
 

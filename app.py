@@ -88,7 +88,7 @@ def delete_wishlist(path: WishlistPath):
     if book:
         return jsonify(book), 200
 
-    return jsonify({"message": "Livro não encontrado"}), 404
+    return jsonify({"message": "Wishlist não encontrado"}), 404
 
 
 product_tag = Tag(name="product", description="Product Routes")

@@ -6,8 +6,8 @@ Projeto criado como MVP da sprint: Arquitetura de Software da pós-graduação e
 
 ## 🚀 Funcionalidades
 
-- **Cadastrar Livros**: Adicione livros com informações básicas.
-- **Adicionar Comentários**: Associe comentários a livros específicos.
+- **Cadastrar Listas de Desejos**: Criação e gerenciamento de listas de desejos.
+- **Adicionar Produtos**: Adição e gerenciamento de produtos na lista de desenos.
 
 ---
 

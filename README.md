@@ -1,6 +1,6 @@
 # 📚 Projeto Meus Livros (Backend)
 
-Esta é uma API desenvolvida em Python utilizando o framework Flask. Ela permite cadastrar livros e adicionar comentários relacionados a cada livro.
+Esta é uma API desenvolvida em Python utilizando o framework Flask. que permite a criação e gerenciamento de listas de desejos.
 
 Projeto criado como MVP da sprint: Desenvolvimento Full Stack Básico da pós-graduação em Engenharia de Software da PUC-Rio.
 

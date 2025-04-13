@@ -2,7 +2,7 @@
 
 Esta é uma API desenvolvida em Python utilizando o framework Flask. que permite a criação e gerenciamento de listas de desejos.
 
-Projeto criado como MVP da sprint: Desenvolvimento Full Stack Básico da pós-graduação em Engenharia de Software da PUC-Rio.
+Projeto criado como MVP da sprint: Arquitetura de Software da pós-graduação em Engenharia de Software da PUC-Rio.
 
 ## 🚀 Funcionalidades
 

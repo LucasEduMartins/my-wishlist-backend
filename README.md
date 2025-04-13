@@ -1,21 +1,13 @@
-# 📚 Projeto Meus Livros (Backend)
+# 📚 Projeto Minhas Listas de Desejos (Backend)
 
 Esta é uma API desenvolvida em Python utilizando o framework Flask. que permite a criação e gerenciamento de listas de desejos.
 
 Projeto criado como MVP da sprint: Arquitetura de Software da pós-graduação em Engenharia de Software da PUC-Rio.
 
-## 🗺️ Arquitetura do Projeto
-
-Abaixo está um fluxograma representando a arquitetura do projeto, incluindo a interação entre o frontend, backend e o banco de dados:
-
-![Arquitetura do Projeto](assets/archtecture_flow.png)
-
 ## 🚀 Funcionalidades
 
 - **Cadastrar Listas de Desejos**: Criação e gerenciamento de listas de desejos.
 - **Adicionar Produtos**: Adição e gerenciamento de produtos na lista de desenos.
-
----
 
 ## 🛠️ Tecnologias Principais Utilizadas
 
@@ -23,7 +15,11 @@ Abaixo está um fluxograma representando a arquitetura do projeto, incluindo a i
 - **Flask**
 - **SQLite**
 
----
+## 🗺️ Arquitetura do Projeto
+
+Abaixo está um fluxograma representando a arquitetura do projeto, incluindo a interação entre o frontend, backend e o banco de dados:
+
+![Arquitetura do Projeto](assets/archtecture_flow.png)
 
 ## ▶️ Como Rodar o Projeto
 
@@ -62,8 +58,6 @@ python app.py
 
 A API estará disponível em [http://127.0.0.1:5000](http://127.0.0.1:5000).
 
----
-
 ## 📦 Como Rodar com Docker
 
 1. Certifique-se de ter o Docker e o Docker Compose instalados na sua máquina.
@@ -83,8 +77,6 @@ A API estará disponível em [http://127.0.0.1:5000](http://127.0.0.1:5000).
    ```
 
 O arquivo `docker-compose.yml` já está configurado para criar o ambiente necessário para rodar a aplicação.
-
----
 
 ## 📦 Documentação da API
 

@@ -1,4 +1,4 @@
-# 📚 Projeto Meus Livros (Backend)
+# 📚 Projeto Minhas Listas de Desejos (Backend)
 
 Esta é uma API desenvolvida em Python utilizando o framework Flask. que permite a criação e gerenciamento de listas de desejos.
 

@@ -4,6 +4,12 @@ Esta é uma API desenvolvida em Python utilizando o framework Flask. que permite
 
 Projeto criado como MVP da sprint: Arquitetura de Software da pós-graduação em Engenharia de Software da PUC-Rio.
 
+## 🗺️ Arquitetura do Projeto
+
+Abaixo está um fluxograma representando a arquitetura do projeto, incluindo a interação entre o frontend, backend e o banco de dados:
+
+![Arquitetura do Projeto](assets/archtecture_flow.png)
+
 ## 🚀 Funcionalidades
 
 - **Cadastrar Listas de Desejos**: Criação e gerenciamento de listas de desejos.
